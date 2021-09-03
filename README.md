@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at ABES Institute of Technology.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web development.
-- ✍️ &nbsp; Learning Network Engineering and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Learning Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
