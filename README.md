@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at ABES Institute of Technology.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web development.
+- 🌱 &nbsp; Learning more about Cloud Architecture and Web development.
 - ✍️ &nbsp; Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -35,7 +35,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   - 🖥 &nbsp;
-   ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma&logoColor=orange)
+  ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma&logoColor=orange)
   
 <br/>
 
